@@ -234,7 +234,7 @@ Click "Run" on the test to make sure it passes. If the tests fail, you'll see a 
 
 ![](https://res.cloudinary.com/dmxgp9oq2/image/upload/v1687363037/graded-code-block-test-fails_efx6ga.png)
 
-This output is not particularly beginner-friendly, but it is what the output of an automated test looks like in the real world, and developers spend all day reading output like this. In fact, this is what the the raw output from our `rake grade` command in your Codespace projects looks like; we just turn it into a [beginner friendly format in our Grades interface](https://learn.firstdraft.com/lessons/125#within-an-app-assignment-rake-grade). If you click on the "View" button above, you will see something similar to the "Examine test" button in Grades when you visited the `rake grade` build report. This is the real Ruby code that runs to test your code!
+This output is not particularly beginner-friendly, but it is what the output of an automated test looks like in the real world, and developers spend all day reading output like this. In fact, this is what the the raw output from our `rake grade` command in your Codespace projects looks like; we just turn it into a [beginner friendly format in our Grades interface](https://learn.firstdraft.com/lessons/125-using-rake-grade#grades-within-an-app-assignment-rake-grade). If you click on the "View" button above, you will see something similar to the "Examine test" button in Grades when you visited the `rake grade` build report. This is the real Ruby code that runs to test your code!
 
 (We're working on making the graded code block results here more readable — stay tuned.)
 
